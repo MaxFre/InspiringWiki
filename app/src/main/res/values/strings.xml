@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_quote">New Quote</string>
+    <string name="background_fade">Background fade</string>
+    <string name="startpage_image">StartPage Image</string>
+</resources>
